@@ -5,3 +5,7 @@ I enjoy solving problems recreationally.
 ### Combinatorics
 
 - [Countdown Numbers Solver](countdown/solver.ipynb)
+
+### Statistics
+
+- [Monty Hall Problem](montyhall/sim.ipynb)
