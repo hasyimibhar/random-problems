@@ -5,6 +5,7 @@ I enjoy solving problems recreationally.
 ### Combinatorics
 
 - [Countdown Numbers Solver](countdown/solver.ipynb)
+- [100 Prisoners](100prisoners/100prisoners.ipynb)
 
 ### Statistics
 
