@@ -10,3 +10,7 @@ I enjoy solving problems recreationally.
 ### Statistics
 
 - [Monty Hall Problem](montyhall/sim.ipynb)
+
+### Artificial Intelligence
+
+- [Tetris](tetris/tetris.ipynb)
