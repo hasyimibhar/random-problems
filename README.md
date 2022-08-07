@@ -13,4 +13,4 @@ I enjoy solving problems recreationally.
 
 ### Artificial Intelligence
 
-- [Tetris](tetris/tetris.ipynb)
+- [Tetris](tetris/tetris.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hasyimibhar/random-problems/HEAD?labpath=tetris%2Ftetris.ipynb)
